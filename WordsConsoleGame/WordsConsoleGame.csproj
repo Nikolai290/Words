@@ -11,4 +11,10 @@
       <ProjectReference Include="..\WordsGame\WordsGame.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Update="russian_nouns.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
 </Project>

@@ -2,9 +2,11 @@ namespace WordsGame;
 
 public class GameSession
 {
-    public int GetAttemtps { get; private set; }
+    private int _getAttemtps;
     private string[] _words;
     private string _secret;
+
+    public int GetAttempts => 6 - _getAttemtps;
 
     public GameSession(string[] words, int index)
     {
@@ -12,7 +14,7 @@ public class GameSession
         var secret = words[index];
 
         _secret = secret;
-        GetAttemtps = 5;
+        _getAttemtps = 5;
     }
 
 
@@ -20,7 +22,7 @@ public class GameSession
     {
         var result = "";
 
-        if (GetAttemtps <= 0)
+        if (_getAttemtps <= 0)
         {
             result = $"Попытки закончились.\nБыло загадано слово {_secret}";
             return result;
@@ -72,7 +74,7 @@ public class GameSession
             }
         }
 
-        GetAttemtps--;
+        _getAttemtps--;
 
         return result;
     }

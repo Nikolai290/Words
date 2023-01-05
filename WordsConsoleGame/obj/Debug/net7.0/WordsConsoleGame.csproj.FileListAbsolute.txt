@@ -16,3 +16,4 @@ C:\REPOS\Trainee\Words\WordsConsoleGame\obj\Debug\net7.0\refint\WordsConsoleGame
 C:\REPOS\Trainee\Words\WordsConsoleGame\obj\Debug\net7.0\WordsConsoleGame.pdb
 C:\REPOS\Trainee\Words\WordsConsoleGame\obj\Debug\net7.0\WordsConsoleGame.genruntimeconfig.cache
 C:\REPOS\Trainee\Words\WordsConsoleGame\obj\Debug\net7.0\ref\WordsConsoleGame.dll
+C:\REPOS\Trainee\Words\WordsConsoleGame\bin\Debug\net7.0\russian_nouns.txt

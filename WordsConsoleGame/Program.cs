@@ -7,7 +7,7 @@ public class Program
 {
     public static void Main()
     {
-        var path = "C:/REPOS/Trainee/Words/russian_nouns.txt";
+        var path = "russian_nouns.txt";
         string input;
 
         while (true)
@@ -55,7 +55,7 @@ public class Program
 
         while (true)
         {
-            Console.Write($"Try {gameSession.GetAttemtps}: ");
+            Console.Write($"Try {gameSession.GetAttempts}: ");
             input = Console.ReadLine().ToLower().Trim();
             if (input.Equals("exit"))
             {

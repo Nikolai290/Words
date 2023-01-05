@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\REPOS\\Trainee\\Words\\WordsGameTests\\WordsGameTests.csproj": {}
+    "c:\\REPOS\\Trainee\\Words\\WordsGameTests\\WordsGameTests.csproj": {}
   },
   "projects": {
-    "C:\\REPOS\\Trainee\\Words\\WordsGameTests\\WordsGameTests.csproj": {
+    "c:\\REPOS\\Trainee\\Words\\WordsGameTests\\WordsGameTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\REPOS\\Trainee\\Words\\WordsGameTests\\WordsGameTests.csproj",
+        "projectUniqueName": "c:\\REPOS\\Trainee\\Words\\WordsGameTests\\WordsGameTests.csproj",
         "projectName": "WordsGameTests",
-        "projectPath": "C:\\REPOS\\Trainee\\Words\\WordsGameTests\\WordsGameTests.csproj",
+        "projectPath": "c:\\REPOS\\Trainee\\Words\\WordsGameTests\\WordsGameTests.csproj",
         "packagesPath": "C:\\Users\\Nikolai\\.nuget\\packages\\",
-        "outputPath": "C:\\REPOS\\Trainee\\Words\\WordsGameTests\\obj\\",
+        "outputPath": "c:\\REPOS\\Trainee\\Words\\WordsGameTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\REPOS\\Trainee\\Words\\WordsGame\\WordsGame.csproj": {
-                "projectPath": "C:\\REPOS\\Trainee\\Words\\WordsGame\\WordsGame.csproj"
+              "c:\\REPOS\\Trainee\\Words\\WordsGame\\WordsGame.csproj": {
+                "projectPath": "c:\\REPOS\\Trainee\\Words\\WordsGame\\WordsGame.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\REPOS\\Trainee\\Words\\WordsGame\\WordsGame.csproj": {
+    "c:\\REPOS\\Trainee\\Words\\WordsGame\\WordsGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\REPOS\\Trainee\\Words\\WordsGame\\WordsGame.csproj",
+        "projectUniqueName": "c:\\REPOS\\Trainee\\Words\\WordsGame\\WordsGame.csproj",
         "projectName": "WordsGame",
-        "projectPath": "C:\\REPOS\\Trainee\\Words\\WordsGame\\WordsGame.csproj",
+        "projectPath": "c:\\REPOS\\Trainee\\Words\\WordsGame\\WordsGame.csproj",
         "packagesPath": "C:\\Users\\Nikolai\\.nuget\\packages\\",
-        "outputPath": "C:\\REPOS\\Trainee\\Words\\WordsGame\\obj\\",
+        "outputPath": "c:\\REPOS\\Trainee\\Words\\WordsGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikolai\\AppData\\Roaming\\NuGet\\NuGet.Config",

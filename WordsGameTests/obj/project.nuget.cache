@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ipQDumjzxSIRBvVg9CdWK+YuJJ6U5lX1tw+3XnZqijuVkg4Ub8zlu7+qE7JDm8JoGjc7d4R4evecbetDtyoOpw==",
+  "dgSpecHash": "9uxvIntSAvUjLyLRwRjUoVUNgz26m53SsC8GnBLYaqdsKxYv9FFBA3c1t+xcsCl5wb33tDdXTA3OyS+yV29ScA==",
   "success": true,
-  "projectFilePath": "C:\\REPOS\\Trainee\\Words\\WordsGameTests\\WordsGameTests.csproj",
+  "projectFilePath": "c:\\REPOS\\Trainee\\Words\\WordsGameTests\\WordsGameTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikolai\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Nikolai\\.nuget\\packages\\fluentassertions\\6.8.0\\fluentassertions.6.8.0.nupkg.sha512",
