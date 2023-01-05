@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WordsConsoleGame/1.0.0": {
+        "dependencies": {
+          "WordsGame": "1.0.0"
+        },
+        "runtime": {
+          "WordsConsoleGame.dll": {}
+        }
+      },
+      "WordsGame/1.0.0": {
+        "runtime": {
+          "WordsGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordsConsoleGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WordsGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

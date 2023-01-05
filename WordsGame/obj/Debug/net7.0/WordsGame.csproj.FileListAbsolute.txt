@@ -1,0 +1,12 @@
+C:\REPOS\Trainee\Words\WordsGame\bin\Debug\net7.0\WordsGame.deps.json
+C:\REPOS\Trainee\Words\WordsGame\bin\Debug\net7.0\WordsGame.dll
+C:\REPOS\Trainee\Words\WordsGame\bin\Debug\net7.0\WordsGame.pdb
+C:\REPOS\Trainee\Words\WordsGame\obj\Debug\net7.0\WordsGame.csproj.AssemblyReference.cache
+C:\REPOS\Trainee\Words\WordsGame\obj\Debug\net7.0\WordsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\Trainee\Words\WordsGame\obj\Debug\net7.0\WordsGame.AssemblyInfoInputs.cache
+C:\REPOS\Trainee\Words\WordsGame\obj\Debug\net7.0\WordsGame.AssemblyInfo.cs
+C:\REPOS\Trainee\Words\WordsGame\obj\Debug\net7.0\WordsGame.csproj.CoreCompileInputs.cache
+C:\REPOS\Trainee\Words\WordsGame\obj\Debug\net7.0\WordsGame.dll
+C:\REPOS\Trainee\Words\WordsGame\obj\Debug\net7.0\refint\WordsGame.dll
+C:\REPOS\Trainee\Words\WordsGame\obj\Debug\net7.0\WordsGame.pdb
+C:\REPOS\Trainee\Words\WordsGame\obj\Debug\net7.0\ref\WordsGame.dll
