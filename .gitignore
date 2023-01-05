@@ -86,8 +86,8 @@ csx/
 # Windows Store app package directory
 AppPackages/
 
-/.idea
-
+.idea
+bin
 # Others
 sql/
 *.Cache
